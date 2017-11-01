@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/perryf
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pprogs.blog
+  * I am perryf (https://keybase.io/perryf) on keybase.
+  * I have a public key ASCU4GJz3lirMIqbntjkQtnJ4OC5zsB-8_W_3Ex0JSv7GQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012094e06273de58ab308a9b9ed8e442d9c9e0e0b9cec07ef3f5bfdc4c74252bfb190a",
+      "host": "keybase.io",
+      "kid": "012094e06273de58ab308a9b9ed8e442d9c9e0e0b9cec07ef3f5bfdc4c74252bfb190a",
+      "uid": "5e71c87806e2e195edc38f293ceb6d19",
+      "username": "perryf"
+    },
+    "merkle_root": {
+      "ctime": 1509552099,
+      "hash": "7c0165493b33e06c21f9b64a3078eb6cdd414ee74422c9c80ef5530d3c394295c6d2889bf401740f0daf8256ff24eaaeb4baccba9ca821d374ec1a6c6eddb903",
+      "hash_meta": "6d34f0913af8ee4ec06216beb8cf155087ffd533c307d6a1b4d01d5ed9dbbcfc",
+      "seqno": 1655383
+    },
+    "service": {
+      "hostname": "pprogs.blog",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509552125,
+  "expire_in": 504576000,
+  "prev": "7707a24273198bcb0f3ed2ce5c9ee3174ad9c887bad856d42e1b0ecd2bd226a8",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglOBic95YqzCKm57Y5ELZyeDguc7AfvP1v9xMdCUr+xkKp3BheWxvYWTFA0F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTRlMDYyNzNkZTU4YWIzMDhhOWI5ZWQ4ZTQ0MmQ5YzllMGUwYjljZWMwN2VmM2Y1YmZkYzRjNzQyNTJiZmIxOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTRlMDYyNzNkZTU4YWIzMDhhOWI5ZWQ4ZTQ0MmQ5YzllMGUwYjljZWMwN2VmM2Y1YmZkYzRjNzQyNTJiZmIxOTBhIiwidWlkIjoiNWU3MWM4NzgwNmUyZTE5NWVkYzM4ZjI5M2NlYjZkMTkiLCJ1c2VybmFtZSI6InBlcnJ5ZiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwOTU1MjA5OSwiaGFzaCI6IjdjMDE2NTQ5M2IzM2UwNmMyMWY5YjY0YTMwNzhlYjZjZGQ0MTRlZTc0NDIyYzljODBlZjU1MzBkM2MzOTQyOTVjNmQyODg5YmY0MDE3NDBmMGRhZjgyNTZmZjI0ZWFhZWI0YmFjY2JhOWNhODIxZDM3NGVjMWE2YzZlZGRiOTAzIiwiaGFzaF9tZXRhIjoiNmQzNGYwOTEzYWY4ZWU0ZWMwNjIxNmJlYjhjZjE1NTA4N2ZmZDUzM2MzMDdkNmExYjRkMDFkNWVkOWRiYmNmYyIsInNlcW5vIjoxNjU1MzgzfSwic2VydmljZSI6eyJob3N0bmFtZSI6InBwcm9ncy5ibG9nIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUwOTU1MjEyNSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI3NzA3YTI0MjczMTk4YmNiMGYzZWQyY2U1YzllZTMxNzRhZDljODg3YmFkODU2ZDQyZTFiMGVjZDJiZDIyNmE4Iiwic2Vxbm8iOjIxLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAw8cup+hdc8HfKkLftG+VnHnmN95pQ6e+Jx94v2u5skjGH2slY7zQjvefqXDzOBgJr28qMEkoTl3WjAuRDBow+oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCB73GaRMin1tKgTMQGaEycINmN5vubv8Zty2T/KamzEyaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/perryf
+
+==================================================================
