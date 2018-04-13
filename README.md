@@ -1,6 +1,9 @@
 # Website thingy yay hello
 
-## Credits
+## New Credits
+- AlexFlipnote's [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS)
+
+## Old Credits (some files are still lying around here because lazy)
 
 - [html5up's identity](http://html5up.net/identity)
 - Images:
